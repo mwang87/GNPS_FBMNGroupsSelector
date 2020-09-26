@@ -13,8 +13,6 @@ from flask import Flask, send_from_directory
 
 import pandas as pd
 import requests
-from upsetplot import from_memberships
-from upsetplot import plot
 from matplotlib import pyplot
 import uuid
 import dash_table
